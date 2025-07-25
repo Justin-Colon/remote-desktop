@@ -19,6 +19,7 @@ This tutorial outlines tool used to test if a computer can talk to another compu
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Ubuntu Server</b> (22.04 LTS) x64Gen2
 
 
 
